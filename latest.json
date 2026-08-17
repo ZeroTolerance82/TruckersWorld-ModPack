@@ -5,11 +5,11 @@
     "filePrefix": "TWModPack",
     "latestVersion": "5.6",
     "fileName": "TWModPackV5.6.scs",
-    "downloadUrl": "PASTE-YOUR-DIRECT-MODPACK-LINK-HERE",
+    "downloadUrl": "https://www.mediafire.com/file/c9hwtly8572ihjt/TWModPackV5.6.scs/file",
     "releaseDate": "2026-08-17",
     "enabled": true,
     "releaseNotes": [
-      "Initial Truckers World ModPack release."
+      "Updated Truckers World ModPack."
     ]
   }
 }
