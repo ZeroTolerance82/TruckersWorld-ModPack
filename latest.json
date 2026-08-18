@@ -3,13 +3,25 @@
   "modpack": {
     "name": "Truckers World ModPack",
     "filePrefix": "TWModPack",
-    "latestVersion": "5.7",
-    "fileName": "TWModPackV5.7.scs",
-    "downloadUrl": "https://www.mediafire.com/file/pqdgkyszi5frlrv/TWModPackV5.7.scs/file",
-    "releaseDate": "2026-08-17",
+    "latestVersion": "5.8",
+    "fileName": "TWModPackV5.8.scs",
+    "downloadUrl": "https://www.mediafire.com/file/kh42ns9de3gtn77/ModPack58.scs/file",
+    "releaseDate": "2026-08-18",
     "enabled": true,
     "releaseNotes": [
-      "Updated Truckers World ModPack."
+      "**Updated Truckers World ModPack**",
+      "We\u2019ve released an updated version of the **Truckers World ModPack**, focused on fixing bugs, improving compatibility, and making the overall pack much more stable.",
+      "This updated ModPack includes **most of the original mods from our previous pack**, along with a number of fixes and improvements to help provide a smoother and more reliable experience in Euro Truck Simulator 2.",
+      "\uD83D\uDD27 **What\u2019s Improved:**",
+      "* Various bug fixes",
+      "* Improved ModPack stability",
+      "* Compatibility fixes for included mods",
+      "* Several problem mods have been corrected",
+      "* Most of the original Truckers World mods are still included",
+      "* General improvements to help reduce crashes and other issues",
+      "We\u2019ve worked on making this version of the **Truckers World ModPack** as stable and reliable as possible while keeping the mods our community enjoys.",
+      "Thank you to everyone who has helped test the pack and reported issues. \uD83D\uDC9B",
+      "**Truckers World ModPack \u2014 Updated, Fixed \u0026 Ready to Roll!**"
     ]
   }
 }
