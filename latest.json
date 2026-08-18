@@ -3,9 +3,9 @@
   "modpack": {
     "name": "Truckers World ModPack",
     "filePrefix": "TWModPack",
-    "latestVersion": "5.8",
-    "fileName": "TWModPackV5.8.scs",
-    "downloadUrl": "https://www.mediafire.com/file/kh42ns9de3gtn77/ModPack58.scs/file",
+    "latestVersion": "5.9",
+    "fileName": "TWModPackV5.9.scs",
+    "downloadUrl": "https://www.mediafire.com/file/42xdr57imss2ajb/ModPack59.scs/file",
     "releaseDate": "2026-08-18",
     "enabled": true,
     "releaseNotes": [
